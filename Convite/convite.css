@@ -1,0 +1,40 @@
+body {
+    background: linear-gradient(to bottom, #800885, #6b0480);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: 'Raleway', sans-serif;
+}
+.Titulos {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: white;
+    padding: 40px;
+}
+
+.Titulos h1 {
+    font-size: 50px;
+    margin-bottom: 0px;
+}
+#fotinhas {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    background-color: white;
+    padding: 40px;
+    margin: none;
+    border-radius: 32px;
+    flex-direction: column;
+
+}
+#quadrado {
+    display: flex;
+    justify-content: center;
+}
+.icon {
+    width: 45px;
+    height: 45px;
+}

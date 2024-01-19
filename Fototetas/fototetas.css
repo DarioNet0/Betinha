@@ -1,0 +1,20 @@
+body {
+    background: linear-gradient(to bottom, #800885, #6b0480);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: 'Raleway', sans-serif;
+}
+.Titulos {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: white;
+    padding: 40px;
+}
+
+.Titulos h1 {
+    font-size: 50px;
+    margin-bottom: 0px;
+}

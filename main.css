@@ -1,0 +1,52 @@
+body {
+    background: linear-gradient(to bottom, #800885, #6b0480);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: 'Raleway', sans-serif;
+}
+
+.Titulos {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: white;
+    padding: 40px;
+}
+
+.Titulos h1 {
+    font-size: 50px;
+    margin-bottom: 0px;
+}
+#Botoes {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
+.botao {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    background-color: white;
+    height: 400px;
+    width: 400px;
+    border-radius: 40px;
+    transition: 0.3s; /* Adiciona uma transição suave à sombra */
+  }
+  .botao span {
+    margin-top: 20px;
+    font-size: 26px;
+  }
+.botao:hover {
+  background-color: #e046e6; 
+  cursor: pointer;
+}
+.icons {
+    width: 100px;
+    height: 100px;
+}
+
+  
