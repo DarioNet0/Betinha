@@ -1,3 +1,0 @@
-# Betinha
-# Betinha
-# Betinha
